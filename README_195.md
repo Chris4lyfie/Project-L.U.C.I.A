@@ -8,8 +8,9 @@
 |------|--------|-------|
 | Name 1 | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
 | Name 2 | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
-| Name 3 | [@username](https://github.com/username) | name@sjsu.edu |
-| Name 4 | [@username](https://github.com/username) | name@sjsu.edu |
+| Name 3 | [@Memekushi](https://github.com/Memekushi) | ethanaelgrimares@sjsu.edu |
+| Name 4 | [@noel-tem](https://github.com/noel-tem) | noel.temores@sjsu.edu |
+>>>>>>> 253df70 (Updated group names with emails)
 
 **Advisor:** [Professor Wencen Wu]
 

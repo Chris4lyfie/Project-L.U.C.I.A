@@ -64,7 +64,7 @@ Christian, Ling, Ethan, Noel
 
 **Action Items:**
 - [ ] [Find a working 3d printer] - [Everyone] - [Soon]
-- [] [Find a roomba] - [Everyone] - [Completed]
+- [ ] [Find a roomba] - [Everyone] - [Completed]
 
 ---
 

@@ -7,7 +7,7 @@
 | Name | GitHub | Email |
 |------|--------|-------|
 | Name 1 | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
-| Name 2 | [@username](https://github.com/username) | name@sjsu.edu |
+| Name 2 | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
 | Name 3 | [@username](https://github.com/username) | name@sjsu.edu |
 | Name 4 | [@username](https://github.com/username) | name@sjsu.edu |
 

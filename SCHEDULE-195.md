@@ -31,7 +31,7 @@
 
 | Date | Duration | Format | Attendees | Summary | Action Items |
 |------|----------|--------|-----------|---------|--------------|
-| 1/23/26 | 3 hours | In-person | Christian, Ling, Ethan, Noel | Preliminary setup | |
+| 1/23/26 | 3 hours | In-person | Christian, Ling, Ethan, Noel | Preliminary setup | 2 |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
@@ -50,6 +50,24 @@
 
 ---
 
+### 1/23/2026 - Team Meeting
+
+**Attendees:**
+Christian, Ling, Ethan, Noel
+**Discussion:**
+- Discussing our main idea for our project
+- Getting our 3d printer set up and working
+
+**Decisions:**
+- Bought an old roomba from FB marketplace
+- 3d printer kept freezing, may resort to use the the 3d printer from makerspace.
+
+**Action Items:**
+- [ ] [Find a working 3d printer] - [Everyone] - [Soon]
+- [*] [Find a roomba] - [Everyone] - [Soon]
+
+---
+
 ## Meeting Notes
 
 ### 2/6/2026 - Advisor Meeting
@@ -57,17 +75,17 @@
 **Attendees:**
 Christian, Ling, Ethan, Noel
 **Discussion:**
--Introduced to our advisor our topic and our goals for the project.
--Shared ideas of hardware materials and how our project can help in different scenarios.
--Asked what should we have finished by the end of the semester.
+- Introduced to our advisor our topic and our goals for the project.
+- Shared ideas of hardware materials and how our project can help in different scenarios.
+- Asked what should we have finished by the end of the semester.
 
 **Decisions:**
--Continue using LiDAR sensor and possibly a raspberry pi camera.
--Will aim to at least get the robot working with our controls by the end of the semester.
+- Continue using LiDAR sensor and possibly a raspberry pi camera.
+- Will aim to at least get the robot working with our controls by the end of the semester.
 
 **Action Items:**
-- [ ] Get a working robot programmed to our controls - Everyone - End of Semester
-- [ ] Buy hardware materials - Everyone - TBD
+- [ ] [Get a working robot programmed to our controls] - [Everyone] - [End of Semester]
+- [ ] [Buy hardware materials] - [Everyone] - [TBD]
 
 ---
 

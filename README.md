@@ -6,10 +6,10 @@
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Name 1 | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
-| Name 2 | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
-| Name 3 | [@Memekushi](https://github.com/Memekushi) | ethanaelgrimares@sjsu.edu |
-| Name 4 | [@noel-tem](https://github.com/noel-tem) | noel.temores@sjsu.edu |
+| Christian Michael Villanueva | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
+| Ling Tang | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
+| Ethanael Grimares | [@Memekushi](https://github.com/Memekushi) | ethanaelgrimares@sjsu.edu |
+| Noel Temores | [@noel-tem](https://github.com/noel-tem) | noel.temores@sjsu.edu |
 
 **Advisor:** [Professor Wencen Wu]
 

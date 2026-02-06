@@ -54,6 +54,7 @@
 
 **Attendees:**
 Christian, Ling, Ethan, Noel
+
 **Discussion:**
 - Discussing our main idea for our project
 - Getting our 3d printer set up and working
@@ -72,6 +73,7 @@ Christian, Ling, Ethan, Noel
 
 **Attendees:**
 Christian, Ling, Ethan, Noel
+
 **Discussion:**
 - Introduced to our advisor our topic and our goals for the project.
 - Shared ideas of hardware materials and how our project can help in different scenarios.

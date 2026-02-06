@@ -18,17 +18,17 @@
 
 ## Problem Statement
 
-[2-3 sentences describing the problem you're solving and why it matters]
+Navigation without infrastructure, especially in high paced environments where the setting is not static, proves to be a current challenge. Environments like hospitals, warehouses, restaurants, have constantly changing obstacles, making traversal difficult. Existing navigation systems assume a static environment, typically guided by known factors and GPS. Introducing additional variables like objects and people can prove to be dangerous with our existing navigation solutions.
 
 ## Solution
 
-[2-3 sentences describing your solution approach]
+Real-time environment mapping utilizing 3-D liDAR scanning. Our system will utilize AI assisted object recognition and algorithmic traversal to map a constantly changing environment.
 
 ### Key Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time 3-D environment mapping
+- Self navigating rover allowing for a "set it and forget it" style of implementation
+- Wireless connectivity for relaying gathered information
 
 ---
 

@@ -31,7 +31,7 @@
 
 | Date | Duration | Format | Attendees | Summary | Action Items |
 |------|----------|--------|-----------|---------|--------------|
-| | | In-person / Remote | | | |
+| 1/23/26 | 3 hours | In-person | Christian, Ling, Ethan, Noel | Preliminary setup | |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |

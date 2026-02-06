@@ -49,7 +49,7 @@
 | | | In-person / Remote | | | |
 
 ---
-
+## Meeting Notes
 ### 1/23/2026 - Team Meeting
 
 **Attendees:**
@@ -64,11 +64,9 @@ Christian, Ling, Ethan, Noel
 
 **Action Items:**
 - [ ] [Find a working 3d printer] - [Everyone] - [Soon]
-- [*] [Find a roomba] - [Everyone] - [Soon]
+- [] [Find a roomba] - [Everyone] - [Completed]
 
 ---
-
-## Meeting Notes
 
 ### 2/6/2026 - Advisor Meeting
 

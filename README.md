@@ -6,10 +6,10 @@
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Christian Michael Villanueva | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
-| Ling Tang | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
-| Ethanael Grimares | [@Memekushi](https://github.com/Memekushi) | ethanaelgrimares@sjsu.edu |
-| Noel Temores | [@noel-tem](https://github.com/noel-tem) | noel.temores@sjsu.edu |
+| Name 1 | [@Chris4lyfie](https://github.com/Chris4lyfie) | christianmichael.villanueva@sjsu.edu |
+| Name 2 | [@ling-tang0922](https://github.com/ling-tang0922) | ling.tang@sjsu.edu |
+| Name 3 | [@Memekushi](https://github.com/Memekushi) | ethanaelgrimares@sjsu.edu |
+| Name 4 | [@noel-tem](https://github.com/noel-tem) | noel.temores@sjsu.edu |
 
 **Advisor:** [Professor Wencen Wu]
 
@@ -17,17 +17,17 @@
 
 ## Problem Statement
 
-Navigation without infrastructure, especially in high paced environments where the setting is not static, proves to be a current challenge. Environments like hospitals, warehouses, restaurants, have constantly changing obstacles, making traversal difficult. Existing navigation systems assume a static environment, typically guided by known factors and GPS. Introducing additional variables like objects and people can prove to be dangerous with our existing navigation solutions.
+Navigation without external infrastructure in high paced non static environments remains a significant challenge for autonomous systems. Indoor settings like hospitals, warehouses, and restaurants contain constantly changing obstacles like people, equipment, and temporary structures. Many existing solutions rely on GPS and known infrastructure. Introducing new variables into the environment increases the risk of unsafe navigation, and the possibility of personel injury. 
 
 ## Solution
 
-Real-time environment mapping utilizing 3-D liDAR scanning. Our system will utilize AI assisted object recognition and algorithmic traversal to map a constantly changing environment.
+Real-time environment mapping utilizing 3-D liDAR scanning. Our system will continuously generate and update a 3-D spatial map while in motion. It will also integrate with AI assisted object recognition enabling navigation in dynamic environments.
 
 ### Key Features
 
-- Real-time 3-D environment mapping
-- Self navigating rover allowing for a "set it and forget it" style of implementation
-- Wireless connectivity for relaying gathered information
+- Real-time three dimensional spatial reconstruction using liDAr to produce point clouds during operation.
+- Fully autonomous rover navigation utilizing data gathered from mapping. This includes path planning, localization and obstacle avoidance.
+- Wireless data communication subsystem for transmitting mapping data and system status to a remote control system.
 
 ---
 

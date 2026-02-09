@@ -17,7 +17,7 @@
 
 ## Problem Statement
 
-Navigation without external infrastructure in high paced non static environments remains a significant challenge for autonomous systems. Indoor settings like hospitals, warehouses, and restaurants contain constantly changing obstacles like people, equipment, and temporary structures. Many existing solutions rely on GPS and known infrastructure. Introducing new variables into the environment increases the risk of unsafe navigation, and the possibility of personel injury. 
+Navigation without external infrastructure in high paced non static environments remains a significant challenge for autonomous systems. Indoor settings like hospitals, warehouses, and restaurants contain constantly changing obstacles like people, equipment, and temporary structures. Many existing solutions rely on GPS and known infrastructure. Introducing new variables into the environment increases the risk of unsafe navigation, and the possibility of personnel injury. 
 
 ## Solution
 

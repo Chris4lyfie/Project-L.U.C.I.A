@@ -32,7 +32,7 @@
 | Date | Duration | Format | Attendees | Summary | Action Items |
 |------|----------|--------|-----------|---------|--------------|
 | 1/23/26 | 3 hours | In-person | Christian, Ling, Ethan, Noel | Preliminary setup | 2 |
-| | | In-person / Remote | | | |
+| 2/10/26 | 2 hours | In-person | Christian, Ling, Ethan, Noel | Pitch Preparation | 1 |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
@@ -86,6 +86,40 @@ Christian, Ling, Ethan, Noel
 **Action Items:**
 - [ ] [Get a working robot programmed to our controls] - [Everyone] - [End of Semester]
 - [ ] [Buy hardware materials] - [Everyone] - [TBD]
+
+---
+
+### 2/10/2026 - Team Meeting
+
+**Attendees:**
+Christian, Ling, Ethan, Noel
+
+**Discussion:**
+- Discussed more in depth of our goals and outcome of our project.
+- Worked on our Google Slides for our 4 minute pitch this Friday.
+
+**Decisions:**
+- Finalized our Google Slides Presentation.
+- Developed a better understanding of our product and what its goal is.
+
+**Action Items:**
+- [ ] [Finish Google Slides Presentation] - [Everyone] - [Completed]
+
+---
+
+### [Date] - [Advisor/Team] Meeting
+
+**Attendees:**
+
+**Discussion:**
+-
+
+**Decisions:**
+-
+
+**Action Items:**
+- [ ] [Task] - [Owner] - [Due]
+- [ ] [Task] - [Owner] - [Due]
 
 ---
 

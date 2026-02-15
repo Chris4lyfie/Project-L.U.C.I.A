@@ -33,7 +33,7 @@
 |------|----------|--------|-----------|---------|--------------|
 | 1/23/26 | 3 hours | In-person | Christian, Ling, Ethan, Noel | Preliminary setup | 2 |
 | 2/10/26 | 2 hours | In-person | Christian, Ling, Ethan, Noel | Pitch Preparation | 1 |
-| | | In-person / Remote | | | |
+| 2/13/26 | 2.5 hours | In-person | Christian, Ling, Ethan, Noel | Roomba Tear-down  | 1|
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
 | | | In-person / Remote | | | |
@@ -107,19 +107,20 @@ Christian, Ling, Ethan, Noel
 
 ---
 
-### [Date] - [Advisor/Team] Meeting
+### 2/13/2026 - Team Meeting
 
 **Attendees:**
+Christian, Ling, Ethan, Noel
 
 **Discussion:**
--
+- Started disassembly of the Roomba
 
 **Decisions:**
--
+- removal of vacuum component
+- understood basic operation of Roomba
 
 **Action Items:**
-- [ ] [Task] - [Owner] - [Due]
-- [ ] [Task] - [Owner] - [Due]
+- [ ] [Roomba Tear-down] - [Everyone] - [Completed]
 
 ---
 

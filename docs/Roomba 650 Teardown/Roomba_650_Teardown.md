@@ -6,7 +6,7 @@ Complete disassembly documentation for reverse engineering and technical analysi
 
 ## Step 1 — External Condition Documentation
 
-![Step 1 - External Condition](Assets/Images/Step 1 - External Condition.jpg)
+![Step 1 - External Condition](Assets/Images/Step%201%20-%20External%20Condition.jpg)
 
 ### Operation
 Initial external documentation in unpowered state prior to disassembly.
@@ -49,7 +49,7 @@ Bumper contains springs/switches requiring controlled removal. Top shell secured
 
 ## Step 2 — Underside Mechanical Survey
 
-![Step 2 - Underside Mechanical Survey](Assets/Images/Step 2 - Underside Mechanical Survey.jpg)
+![Step 2 - Underside Mechanical Survey](Assets/Images/Step%202%20-%20Underside%20Mechanical%20Survey.jpg)
 
 ### Operation
 Unit inverted to document baseline mechanical layout before fastener removal.
@@ -110,7 +110,7 @@ Drive modules spring-loaded; control extraction to prevent wiring stress. Avoid 
 
 ## Step 3 — Dust Bin Removal
 
-![Step 3 - Dust Bin Removal](Assets/Images/Step 3 - Dust Bin Removal.jpg)
+![Step 3 - Dust Bin Removal](Assets/Images/Step%203%20-%20Dust%20Bin%20Removal.jpg)
 
 ### Operation
 Rear dust bin assembly removed via top-mounted release latch. Slides rearward along guide rails and disengages from suction port.
@@ -140,7 +140,7 @@ Debris on seal surface reduces efficiency. Misalignment during reinstallation im
 
 ## Step 4 — Bottom Chassis Plate and Battery Removal
 
-![Step 4 - Bottom Chassis Plate and Battery Removal](Assets/Images/Step 4 - Bottom Chassis Plate and Battery Removal.jpg)
+![Step 4 - Bottom Chassis Plate and Battery Removal](Assets/Images/Step%204%20-%20Bottom%20Chassis%20Plate%20and%20Battery%20Removal.jpg)
 
 ### Operation
 Perimeter screws removed. Bottom plate separated, exposing internal architecture. Battery pack extracted from central cavity.
@@ -192,7 +192,7 @@ Wheel modules under spring tension; avoid lateral force. Battery contacts expose
 
 ## Step 5 — Main Brush Removal
 
-![Step 5 - Main Brush Removal](Assets/Images/Step 5 - Main Brush Removal.jpg)
+![Step 5 - Main Brush Removal](Assets/Images/Step%205%20-%20Main%20Brush%20Removal.jpg)
 
 ### Operation
 Dual counter-rotating brushes removed using yellow retention tabs. Brush shafts lifted vertically from bearing seats and drive couplings.
@@ -232,7 +232,7 @@ Hair accumulation at bearings increases torque load. Drive-side coupling suscept
 
 ## Step 6 — Brush Deck Module Removal
 
-![Step 6 - Brush Deck Module Removal](Assets/Images/Step 6 - Brush Deck Module Removal.jpg)
+![Step 6 - Brush Deck Module Removal](Assets/Images/Step%206%20-%20Brush%20Deck%20Module%20Removal.jpg)
 
 ### Operation
 Complete brush deck module detached after electrical connector disengagement. Module includes dual brush channels, geartrain, integrated motor, and debris intake throat.
@@ -266,7 +266,7 @@ Wiring harness strain may damage connector. Internal geartrain wear not external
 
 ## Step 7 — Side Brush Motor Disassembly
 
-![Step 7 - Side Brush Motor Disassembly](Assets/Images/Step 7 - Side Brush Motor Disassembly.jpg)
+![Step 7 - Side Brush Motor Disassembly](Assets/Images/Step%207%20-%20Side%20Brush%20Motor%20Disassembly.jpg)
 
 ### Operation
 Side brush removed via central Phillips screw. Motor assembly extracted and gearbox housing opened to expose reduction geartrain.
@@ -308,7 +308,7 @@ Hair intrusion into output bearing increases friction. Plastic gear wear under s
 
 ## Step 8 — Drive Wheel Module Removal
 
-![Step 8 - Drive Wheel Module Removal](Assets/Images/Step 8 - Drive Wheel Module Removal.jpg)
+![Step 8 - Drive Wheel Module Removal](Assets/Images/Step%208%20-%20Drive%20Wheel%20Module%20Removal.jpg)
 
 ### Operation
 Left and right drive wheel modules disconnected and removed as complete assemblies after electrical connector disengagement.
@@ -376,7 +376,7 @@ Encoder wiring fragile during removal. Gear wear under prolonged high-torque ope
 
 ## Step 9 — Front Bumper Removal
 
-![Step 9 - Front Bumper Removal](Assets/Images/Step 9 - Front Bumper Removal.jpg)
+![Step 9 - Front Bumper Removal](Assets/Images/Step%209%20-%20Front%20Bumper%20Removal.jpg)
 
 ### Operation
 Front compliant bumper ring detached via screw/clip release. Semi-circular component separated from chassis perimeter.
@@ -428,7 +428,7 @@ Spring misalignment may cause false triggers; avoid stressing plastic tabs durin
 
 ## Step 10 — Cosmetic Top Cover Removal
 
-![Step 10 - Cosmetic Top Cover Removal](Assets/Images/Step 10 - Cosmetic Top Cover Removal.jpg)
+![Step 10 - Cosmetic Top Cover Removal](Assets/Images/Step%2010%20-%20Cosmetic%20Top%20Cover%20Removal.jpg)
 
 ### Operation
 Gloss cosmetic top cover removed after screw/snap release. Upper structural plate with UI assembly now exposed.
@@ -463,7 +463,7 @@ Snap tab fracture during removal. Over-tightening strips plastic bosses. Light p
 
 ## Step 11 — Upper Structural Shell Removal
 
-![Step 11 - Upper Structural Shell Removal](Assets/Images/Step 11 - Upper Structural Shell Removal.jpg)
+![Step 11 - Upper Structural Shell Removal](Assets/Images/Step%2011%20-%20Upper%20Structural%20Shell%20Removal.jpg)
 
 ### Operation
 Upper structural shell separated after screw removal. Shell lifted vertically to avoid wiring strain. Main control PCB and internal wiring exposed.
@@ -533,7 +533,7 @@ Wire harness damage during shell lift. PCB stress from uneven screw removal. ESD
 
 ## Step 12 — Button Array Removal and Full PCB Exposure
 
-![Step 12 - Button Array Removal and Full PCB Exposure](Assets/Images/Step 12 - Button Array Removal and Full PCB Exposure.jpg)
+![Step 12 - Button Array Removal and Full PCB Exposure](Assets/Images/Step%2012%20-%20Button%20Array%20Removal%20and%20Full%20PCB%20Exposure.jpg)
 
 ### Operation
 Button array and UI trim removed from PCB. Retaining screws extracted, alignment posts disengaged. Underlying PCB and component layout fully exposed.
